@@ -29,22 +29,22 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-# # Optimize Jekyl SEO Tag
-# twitter:
-#   username: vszhub
-#   card: summary
-# logo: logo.png
-# social:
-#   name: Songzi Vong
-#   links:
-#     - https://twitter.com/vszhub
-#     - https://github.com/vszhub
-# google_site_verification: xxxxx
-# lang: en
+# Optimize Jekyl SEO Tag
+twitter:
+  username: vszhub
+  card: summary
+logo: logo.png
+social:
+  name: Songzi Vong
+  links:
+    - https://twitter.com/vszhub
+    - https://github.com/vszhub
+google_site_verification: xxxxx
+lang: en
 
-# sass:
-#   sass_dir: _sass
-#   style: :compressed
+sass:
+  sass_dir: _sass
+  style: :compressed
 
 # Options
 
@@ -55,7 +55,7 @@ exclude:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-# author:
-#   name: Songzi Vong
-#   url: https://github.com/vszhub/
-#   email: vszhub@gmail.com
+author:
+  name: Songzi Vong
+  url: https://github.com/vszhub/
+  email: vszhub@gmail.com
