@@ -3,4 +3,7 @@ layout: page
 title: About
 ---
 
-**Contact** ly_nn@mail.ustc.edu.cn
+## Contact Information
+**Affiliation** USTC
+**Email** ly_nn@mail.ustc.edu.cn
+**Office** 中科大西区力五楼703
